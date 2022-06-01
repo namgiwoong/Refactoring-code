@@ -16,9 +16,9 @@ The motivation of this refactor project is to improve the code by observing the 
 ## Usage
 
 Application can be viewed in the desk web browser. It is not optimized for the smaller screen.
-[Screenshot of the website](assets/images/screencapture-namgiwoong-github-io-Refactoring-code-2022-05-31-23_59_19.png)
+![](assets/images/screencapture-namgiwoong-github-io-Refactoring-code-2022-05-31-23_59_19.png)
 
 ## Links
 
-[Link to the websiit](https://namgiwoong.github.io/Refactoring-code/)
-[Link to the repository](https://github.com/namgiwoong/Refactoring-code)
+- [Link to the website](https://namgiwoong.github.io/Refactoring-code/)
+- [Link to the repository](https://github.com/namgiwoong/Refactoring-code)
