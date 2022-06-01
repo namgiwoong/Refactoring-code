@@ -2,7 +2,7 @@
 
 ## Description
 
-The motivation of this refactor project is to improve the code by observing the existing code. The key factor of this project is refactor and accebility. Refactoring code should improve search engine optimization and added functionality such and image description should improve accessbility. The goal of refactoring project is to improve the code without modifying displayed styling of the website which the goal is met.
+The motivation of this refactor project is to improve the code by observing the existing code. The key factor of this project is refactor and accebility. Refactoring code should improve search engine optimization and added functionality such as image description should improve accessbility. The goal of refactoring project is to improve the code without modifying displayed styling of the website which the goal is met.
 
 ## Work Done
 
@@ -21,6 +21,7 @@ The motivation of this refactor project is to improve the code by observing the 
 ## Usage
 
 Application can be viewed in the desk web browser. It is not optimized for the smaller screen.
+
 ![](assets/images/screencapture-namgiwoong-github-io-Refactoring-code-2022-05-31-23_59_19.png)
 
 ## Credits
