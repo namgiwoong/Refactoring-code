@@ -70,13 +70,14 @@ figure {
   margin-left: 25px;
 }
 
-section {
+main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-.benefits {
+/* .benefits { */
+aside {
   margin-right: 20px;
   padding: 20px;
   clear: both;
