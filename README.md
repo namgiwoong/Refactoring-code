@@ -2,7 +2,7 @@
 
 ## Description
 
-The motivation of this refactor project is to improve the code by observing the existing code. The key factor of this project is refactor and accebility. Refactoring code should improve search engine optimization and added functionality such as image description should improve accessbility. The goal of refactoring project is to improve the code without modifying displayed styling of the website which the goal is met.
+The motivation of this refactor project is to improve the code by observing the existing code. The key factor of this project is refactor and accebility. Refactoring code should improve search engine optimization and adding functionality such as image description should improve accessbility. The goal of refactoring project is to improve the code without modifying displayed styling of the website which the goal is met.
 
 ## Work Done
 
