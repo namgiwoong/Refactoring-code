@@ -1,4 +1,4 @@
-# Refactoring Code
+# Refactoring-Code
 
 ## Description
 
@@ -13,12 +13,19 @@ The motivation of this refactor project is to improve the code by observing the 
 - Redundant classes in the index file is consolidated and renamed.
 - CSS codes are consolidated and commented-out the previous code. New code is written underneath the previous/commented-out code.
 
+## Links
+
+- [Link to the website](https://namgiwoong.github.io/Refactoring-code/)
+- [Link to the repository](https://github.com/namgiwoong/Refactoring-code)
+
 ## Usage
 
 Application can be viewed in the desk web browser. It is not optimized for the smaller screen.
 ![](assets/images/screencapture-namgiwoong-github-io-Refactoring-code-2022-05-31-23_59_19.png)
 
-## Links
+## Credits
 
-- [Link to the website](https://namgiwoong.github.io/Refactoring-code/)
-- [Link to the repository](https://github.com/namgiwoong/Refactoring-code)
+References
+
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://developer.mozilla.org/en-US/docs/Glossary/Semantics
