@@ -88,6 +88,49 @@ aside {
   background-color: #2589bd;
 }
 
+.contant-box {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+/* .search-engine-optimization img {
+  max-height: 200px;
+}
+
+.online-reputation-management img {
+  max-height: 200px;
+}
+
+.social-media-marketing img {
+  max-height: 200px;
+} */
+.contant-box img {
+  max-height: 200px;
+}
+
+/* .search-engine-optimization h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+.online-reputation-management h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+.social-media-marketing h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+} */
+.contant-box h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 /* .benefit-lead {
   margin-bottom: 32px;
   color: #ffffff;
@@ -152,47 +195,6 @@ aside {
   max-width: 150px;
 }
 
-.contant-box {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-/* .search-engine-optimization img {
-  max-height: 200px;
-}
-
-.online-reputation-management img {
-  max-height: 200px;
-}
-
-.social-media-marketing img {
-  max-height: 200px;
-} */
-.contant-box img {
-  max-height: 200px;
-}
-/* .search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-} */
-.contant-box h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
 footer {
   padding: 30px;
   clear: both;
